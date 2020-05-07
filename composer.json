@@ -1,0 +1,26 @@
+{
+    "name": "phalapi/koss",
+    "description": "金山云内容存储扩展类库",
+    "type": "library",
+    "keywords": [
+        "phalapi-koss"
+    ],
+    "license": "GPL-3.0+",
+    "minimum-stability": "dev",
+    "homepage": "https://www.phalapi.net/",
+    "authors": [
+        {
+            "name": "licx",
+            "email": "lyyliyongyi@163.com",
+            "homepage": "http://gushi.phoenixfm.cn",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "PhalApi\\koss\\": "src"
+        }
+    } 
+}
