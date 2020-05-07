@@ -1,9 +1,9 @@
 {
-    "name": "api/koss",
+    "name": "licx/koss",
     "description": "金山云内容存储扩展类库",
     "type": "library",
     "keywords": [
-        "api-koss"
+        "licx-koss"
     ],
     "license": "GPL-3.0+",
     "minimum-stability": "dev",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Api\\koss\\": "src"
+            "Licx\\koss\\": "src"
         }
     } 
 }
