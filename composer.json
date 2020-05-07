@@ -1,9 +1,9 @@
 {
-    "name": "phalapi/koss",
+    "name": "api/koss",
     "description": "金山云内容存储扩展类库",
     "type": "library",
     "keywords": [
-        "phalapi-koss"
+        "api-koss"
     ],
     "license": "GPL-3.0+",
     "minimum-stability": "dev",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PhalApi\\koss\\": "src"
+            "Api\\koss\\": "src"
         }
     } 
 }
